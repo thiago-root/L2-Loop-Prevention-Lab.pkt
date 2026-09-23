@@ -1,4 +1,5 @@
-# 🛡️ Cisco L2 Loop Prevention & Hardening Lab
+# 🛡️ Prevenção de Loops e Hardening L2 em Redes Cisco
+
 
 Este repositório contém a simulação prática, arquitetura e documentação de um laboratório focado em **diagnóstico de loops de Camada 2**, **contenção de Broadcast Storms** e **mecanismos de proteção L2 (BPDU Guard e PortFast)** em switches Cisco Catalyst.
 
